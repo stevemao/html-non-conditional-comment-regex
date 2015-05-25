@@ -1,6 +1,6 @@
 {
   "name": "html-non-conditional-comment-regex",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression for matching non conditional HTML comments",
   "homepage": "https://github.com/stevemao/html-non-conditional-comment-regex",
   "author": {
